@@ -2,7 +2,7 @@ using AmsT4_Carousel.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 ///
-///<author>Giovanna</author>
+///<author>Francisco</author>
 ///
 
 var builder = WebApplication.CreateBuilder(args);
